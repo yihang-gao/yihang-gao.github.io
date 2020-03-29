@@ -26,10 +26,11 @@
 
 
   <h2>Honors and Awards</h2>
+  <div>
       <p align="left"> China National Scholarship, 2018-2019 </p>
       <p align="left"> First-Class Scholarship for Outstanding Merits, Zhejiang University, 2018-2019 </p>
       <p align="left"> First-Class Scholarship for Outstanding Students, Zhejiang University, 2018-2019 </p>
       <p align="left"> Jinming Education Scholarship, School of Mathematical Sciences, Zhejiang University, 2017-2018 </p>
       <p align="left"> Third-Class Scholarship for Outstanding Merits, Zhejiang University, 2017-2018 & 2016-2017 </p>
-
+</div>
 
