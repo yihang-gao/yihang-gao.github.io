@@ -1,7 +1,7 @@
 <table border="0" align="left">
   <tr>
     <td width="75%">
-      <h1>GAO Yihang</h1>
+      <h1>GAO Yihang 高伊杭</h1>
       <p align="left"><b>Undergraduate student</b></p>
       <p align="left"><b>Mathematics & Applied Mathematics</b></p>
       <p align="left"><b>School of Mathematical Sciences, Zhejiang University, Hangzhou, China</b></p>
