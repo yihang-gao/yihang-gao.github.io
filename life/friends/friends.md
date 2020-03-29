@@ -1,4 +1,4 @@
-[Go back](/index.md)
+[Go back](../../index.md)
 
 仍在建设中...
 
