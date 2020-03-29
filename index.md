@@ -3,10 +3,10 @@
     <td width="75%">
       <h1>GAO Yihang</h1>
       <p align="left"><b>Undergraduate student</b></p>
-      <p><b>School of Mathematical Sciences, Zhejiang University</b></p>
-      <p><b>Email: yhgao3@gmail.com</b></p>
-      <p><b>Address: Greenland Huajia Chiyin, 217 Qiutao North Road, Jianggan, Hangzhou; </b></p>
-      <p><b>&emsp;&emsp;&emsp;&emsp;&nbsp; Yuquan Campus of Zhejiang University, 38 Zheda Road, Xihu, Hangzhou</b></p>
+      <p align="left"><b>School of Mathematical Sciences, Zhejiang University</b></p>
+      <p align="left"><b>Email: yhgao3@gmail.com</b></p>
+      <p align="left"><b>Address: Greenland Huajia Chiyin, 217 Qiutao North Road, Jianggan, Hangzhou; </b></p>
+      <p align="left"><b>&emsp;&emsp;&emsp;&emsp;&nbsp; Yuquan Campus of Zhejiang University, 38 Zheda Road, Xihu, Hangzhou</b></p>
     </td>
     <td width="25%">
       <center>
@@ -18,7 +18,7 @@
 <table border="0" align="left">
 <tr>
   <td>
-  <p><b>
+  <p align="left"><b>
   I'm interested in data science, especially optimizing algorithms in statistical methods and data analysis; statistical machine learning. 
  </b></p>
     </td>
