@@ -51,7 +51,9 @@
 
   <h2>My Colorful Life</h2>
   [Traveling](./traveling.md)
+  
   [Cooking](./cooking.md)
+  
   [Outdoor activities](./outact.md)
   
   <h2>Others</h2>
