@@ -50,11 +50,16 @@
 
 
   <h2>My Colorful Life</h2>
+
   [Traveling](./traveling.md)
   
   [Cooking](./cooking.md)
   
   [Outdoor activities](./outact.md)
+
+  [My Best Friends](./friends.md)
+
+
   
   <h2>Others</h2>
   Click [here](./application.md) for information about my [applying to graduate studies](./application.md) if you are interested. 
