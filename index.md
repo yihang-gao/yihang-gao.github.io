@@ -47,3 +47,11 @@
       <p align="left"> Third-Class Scholarship for Outstanding Merits, Zhejiang University, 2017-2018 & 2016-2017 </p>
 </div>
 
+
+  <h2>Others</h2>
+  <div>
+  <p align="left"> Click here for information about my applying to graduate studies if you are interested. </p>
+  <p align="left"> If you have any problem, welcome to contact me via email. </p>
+  <p align="left"> The Website is last modified in 2020.3.29. </p>
+  </div>
+
