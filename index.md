@@ -3,9 +3,10 @@
     <td width="75%">
       <h1>GAO Yihang</h1>
       <p align="left"><b>Undergraduate student</b></p>
-      <p align="left"><b>School of Mathematical Sciences, Zhejiang University</b></p>
+      <p align="left"><b>Mathematics & Applied Mathematics</b></p>
+      <p align="left"><b>School of Mathematical Sciences, Zhejiang University, Hangzhou, China</b></p>
       <p align="left"><b>Email: yhgao3@gmail.com</b></p>
-      <p align="left"><b>Address: Greenland Huajia Chiyin, 217 Qiutao North Road, Jianggan, Hangzhou, Zhejiang, China; Yuquan Campus of Zhejiang University, 38 Zheda Road, Xihu, Hangzhou, Zhejiang, China</b></p>
+      <p align="left"><b>Address: Greenland Huajia Chiyin, 217 Qiutao North Road, Jianggan, Hangzhou, Zhejiang, China</b></p>
     </td>
     <td width="25%">
       <center>
@@ -26,8 +27,7 @@
   
   <h2>Research and Intern Experience</h2>
   <div>
-  <p align="left">Summer Research, Supervised by Dr. Min Chi, Department of Computer Science, NC State University, Raleigh, NC, USA
-  
+  <p align="left">Summer Research, Supervised by Dr. Min Chi, Department of Computer Science, North Carolina State University, Raleigh, NC, USA
   </div>
 
 
