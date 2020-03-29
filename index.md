@@ -1,8 +1,8 @@
-<table border="0">
+<table border="0" align="left">
   <tr>
     <td width="75%">
       <h1>GAO Yihang</h1>
-      <p><b>Undergraduate student</b></p>
+      <p align="left"><b>Undergraduate student</b></p>
       <p><b>School of Mathematical Sciences, Zhejiang University</b></p>
       <p><b>Email: yhgao3@gmail.com</b></p>
       <p><b>Address: Greenland Huajia Chiyin, 217 Qiutao North Road, Jianggan, Hangzhou; </b></p>
@@ -15,7 +15,7 @@
     </td>
   </tr>
 </table>
-<table border="0">
+<table border="0" align="left">
 <tr>
   <td>
   <p><b>
@@ -24,3 +24,6 @@
     </td>
   </tr>
   </table>
+  <table border="0" align="left">
+  <h2>Honor</h2>
+</table>
