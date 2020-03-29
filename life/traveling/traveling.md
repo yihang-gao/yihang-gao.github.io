@@ -1,4 +1,4 @@
-[Go back](./index.md)
+[Go back](../../index.md)
 
 在世界各地 留下我的足迹
 
