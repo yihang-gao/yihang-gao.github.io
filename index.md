@@ -55,7 +55,7 @@
   
   [Cooking](./life/cooking/cooking.md)
   
-  [Outdoor activities](./life/outact/outact.md)
+  [Outdoor Activities](./life/outact/outact.md)
 
   [My Best Friends](./life/friends/friends.md)
 
