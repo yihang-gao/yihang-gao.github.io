@@ -27,7 +27,8 @@
   
   <h2>Research and Intern Experience</h2>
   <div>
-  <p align="left">Summer Research, Supervised by Dr. Min Chi, Department of Computer Science, North Carolina State University, Raleigh, NC, USA
+  <p align="left">Summer Research (2019.7-2019.8), Supervised by Dr. Min Chi, Department of Computer Science, North Carolina State University, Raleigh, NC, USA </p>
+  
   </div>
 
 
