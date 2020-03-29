@@ -1,4 +1,4 @@
-[Go back](./life/traveling/traveling.md)
+[Go back](../traveling.md)
 
 仍在建设中...
 
