@@ -4,9 +4,9 @@
       <h1>GAO Yihang 高伊杭</h1>
       <p align="left"><b>Undergraduate student</b></p>
       <p align="left"><b>Mathematics & Applied Mathematics</b></p>
-      <p align="left"><b>School of Mathematical Sciences, Zhejiang University, Hangzhou, China</b></p>
+      <p align="left"><b>School of Mathematical Sciences, Zhejiang University, Hangzhou, P.R. China</b></p>
       <p align="left"><b>Email: yhgao3@gmail.com</b></p>
-      <p align="left"><b>Address: Building 30, Yuquan Campus, Zhejiang University, 38 Zheda Road, Hangzhou, Zhejiang, China</b></p>
+      <p align="left"><b>Address: Building 30, Yuquan Campus, Zhejiang University, 38 Zheda Road, Hangzhou, Zhejiang, P.R. China</b></p>
     </td>
     <td width="25%">
       <center>
@@ -27,10 +27,10 @@
   
   <h2>Research and Intern Experience</h2>
   <div>
-  <p align="left">Graduate Research (2020.2-), Supervised by Dr. Heyu Wang, Zhejiang University, China</p>
-  <p align="left">Research (SRTP, 2019.5-), Supervised by Prof. Peng Zhang, Zhejiang University, China</p>
+  <p align="left">Graduate Research (2020.2-), Supervised by Dr. Heyu Wang, Zhejiang University, P.R. China</p>
+  <p align="left">Research (SRTP, 2019.5-), Supervised by Prof. Peng Zhang, Zhejiang University, P.R. China</p>
   <p align="left">Summer Research (2019.7-2019.8), Supervised by Dr. Min Chi, Department of Computer Science, North Carolina State University, Raleigh, NC, USA </p>
-  <p align="left">Intern (2018.8), Java Web development, Zhejiang Rongchuang Information Industry Co., Ltd, China Mobile, Hangzhou, Zhejiang, China</p>
+  <p align="left">Intern (2018.8), Java Web development, Zhejiang Rongchuang Information Industry Co., Ltd, China Mobile, Hangzhou, Zhejiang, P.R. China</p>
   </div>
   
   <h2>Activities</h2>
