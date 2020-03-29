@@ -4,4 +4,4 @@
 
 Still under construction... 
 
-<h1>2019.8 Raleigh</h1>
+<h1>2019.7-8 Raleigh</h1>
