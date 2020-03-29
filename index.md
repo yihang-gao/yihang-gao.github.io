@@ -51,13 +51,13 @@
 
   <h2>My Colorful Life</h2>
 
-  [Traveling](./traveling.md)
+  [Traveling](./life/traveling/traveling.md)
   
-  [Cooking](./cooking.md)
+  [Cooking](./life/cooking/cooking.md)
   
-  [Outdoor activities](./outact.md)
+  [Outdoor activities](./life/outact/outact.md)
 
-  [My Best Friends](./friends.md)
+  [My Best Friends](./life/friends/friends.md)
 
 
   
