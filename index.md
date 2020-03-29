@@ -29,6 +29,7 @@
   <div>
   <p align="left">Research (SRTP, 2019.5-), Supervised by Prof. Peng Zhang, Zhejiang University, China
   <p align="left">Summer Research (2019.7-2019.8), Supervised by Dr. Min Chi, Department of Computer Science, North Carolina State University, Raleigh, NC, USA </p>
+  <p align="left">Intern, Java Web development, Zhejiang Rongchuang Information Industry Co., Ltd, China Mobile, Hangzhou, Zhejiang, China</p>
   
   </div>
 
