@@ -53,7 +53,7 @@
 
   [Traveling](./life/traveling/traveling.md)
   
-  [Cooking](./life/cooking/cooking.md)
+  [Cooking & Food](./life/cooking/cooking.md)
   
   [Outdoor Activities](./life/outact/outact.md)
 
