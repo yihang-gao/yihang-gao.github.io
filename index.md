@@ -48,6 +48,9 @@
 </div>
 
 
+  <h2>My Colorful Life</h2>
+  [traveling](./traveling.md)
+  
   <h2>Others</h2>
   Click [here](./application.md) for information about my [applying to graduate studies](./application.md) if you are interested. 
   <div>
