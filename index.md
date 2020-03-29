@@ -31,6 +31,11 @@
   <p align="left">Summer Research (2019.7-2019.8), Supervised by Dr. Min Chi, Department of Computer Science, North Carolina State University, Raleigh, NC, USA </p>
   <p align="left">Intern(2018.8), Java Web development, Zhejiang Rongchuang Information Industry Co., Ltd, China Mobile, Hangzhou, Zhejiang, China</p>
   </div>
+  
+  <h2>Activities</h2>
+  <div>
+  <p align="left">Deputy Minister(2017.9-2018.7), Student Union of School of Mathematical Sciences</p>
+  </div>
 
 
   <h2>Honors and Awards</h2>
