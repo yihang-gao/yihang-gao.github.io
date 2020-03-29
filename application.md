@@ -6,7 +6,7 @@
 <p align="left">2019.11.30: Application submitted</p>
 <p align="left">2020.1.14: Condictional Offer (with Postgraduate Scholarship)</p>
 
-<p align="left"><b> MS in Statistics and Data Analysis @University of Washington (UW)</b></p>
+<p align="left"><b> MS in Statistics and Data Analysis @University of Washington, Seattle (UW)</b></p>
 <p align="left">2019.12.15: Application submitted</p>
 <p align="left">2020.1.25: Admission</p>
 
