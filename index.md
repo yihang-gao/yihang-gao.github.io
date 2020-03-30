@@ -62,7 +62,7 @@
 
   
   <h2>Others</h2>
-  Click [here](./application.md) for information about my [applying to graduate studies](./application.md) if you are interested. 
+  Click for information about my [applying to graduate studies](./application.md) if you are interested. 
   <div>
   <p align="left"> If you have any problem, welcome to contact me via email. </p>
   <p align="left"> The Website is last updated in 2020.3.29. </p>
