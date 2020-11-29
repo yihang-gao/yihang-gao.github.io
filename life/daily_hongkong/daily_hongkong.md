@@ -8,5 +8,4 @@ Still under construction...
 <h5>英倫風 太平山纜車</h5>
 <center>
       <img src="/life/daily_hongkong/img_dailyhk/img_201115_1.jpg" width="20%" height="50%"> 
-      <img src="/img_201115_1.jpg" width="20%" height="50%">  
 </center>
