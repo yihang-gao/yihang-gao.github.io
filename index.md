@@ -70,5 +70,5 @@
   Click for information about my [applying to graduate studies](./application.md) if you are interested. 
   <div>
   <p align="left"> If you have any problems, welcome to contact me via email. </p>
-  <p align="left"> The Website is last updated in 2020.11.29. </p>
+  <p align="left"> The Website was last updated on 2020.11.29. </p>
   </div>
