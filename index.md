@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>GAO Yihang 高伊杭</h1>
-      <p align="left"><b>Ph.D. candidate in Applied Mathematics, Supervisor: Prof. Michael K. NG</b></p>
+      <p align="left"><b>Ph.D. candidate in Mathematics, Supervisor: Prof. Michael K. NG</b></p>
       <p align="left"><b>Department of Mathematics, The University of Hong Kong, Hong Kong S.A.R.</b></p>
       <p align="left"><b>Email: gaoyh@connect.hku.hk (preferred)  or   yihanggao@outlook.com</b></p>
       <p align="left"><b>Address: Run Run Shaw Building, Department of Mathematics, The University of Hong Kong, Pokfulam, Hong Kong</b></p>
