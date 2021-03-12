@@ -25,7 +25,7 @@
   </table>
   
   <h2>Publications</h2>
-  <p align="left">[1] Preprint, still under review.</p>
+  <p align="left">[1] Still under review.</p>
   
   <h2>Research and Intern Experience</h2>
   <div>
