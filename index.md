@@ -25,6 +25,24 @@
   </table>
   
   
+  <table border="0" align="left">
+    <tr>
+  <td>
+  <p align="left"><b>
+        E Weinan:
+         </b></p>
+    </td>
+  </tr>
+  <tr>
+  <td>    
+  <p align="left"><b>
+  The Dawning of a New Era in Applied Mathematics: Machine Learning
+     </b></p>
+    </td>
+  </tr>
+  </table>
+
+  
   <h2>Publications</h2>
   <p align="left">[1] Still under review.</p>
   
