@@ -1,4 +1,4 @@
-## Preprint
+# Preprint
 
 
-## Published
+# Published
