@@ -4,11 +4,11 @@ left_side:
   background_image: "./background.jpg"
 
 menu:
-  - text: Portfolio
+  - text: Publications
     link: /
     icon: ""
 
-  - text: Skills & Offers
+  - text: Experience
     link: /
     icon: ""
   
