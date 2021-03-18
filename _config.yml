@@ -7,14 +7,14 @@ left_side:
 
 menu:
   - text: Publications
-    link: "./publications.md"
+    link: "/publications.md"
     icon: ""
 
   - text: Experience
-    link: "./experience.md"
+    link: "/experience.md"
     icon: ""
     
   - text: Colourful Life
-    link: "./life/colourful_life.md"
+    link: "/life/colourful_life.md"
     icon: ""
   
