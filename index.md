@@ -26,13 +26,6 @@
   
   
   <table border="0" align="left">
-    <tr>
-  <td>
-  <p align="left"><b>
-        E Weinan:
-         </b></p>
-    </td>
-  </tr>
   <tr>
   <td>    
   <p align="right"><b>
@@ -41,6 +34,7 @@
     </td>
   </tr>
   </table>
+  
 
   
   <h2>Publications</h2>
