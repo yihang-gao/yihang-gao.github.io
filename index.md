@@ -76,8 +76,8 @@
 <!--  
   <h2>Others</h2>
   Click for information about my [applying to graduate studies](./application.md) if you are interested. -->
-  </br>
-  </br>
+  <br/>
+  <br/>
   
  <div> 
   <p align="left"> If you have any problems, welcome to contact me via email. </p>
