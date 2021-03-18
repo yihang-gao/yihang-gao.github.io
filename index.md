@@ -35,7 +35,7 @@
   </tr>
   <tr>
   <td>    
-  <p align="left"><b>
+  <p align="right"><b>
   The Dawning of a New Era in Applied Mathematics: Machine Learning
      </b></p>
     </td>
