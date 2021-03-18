@@ -35,10 +35,27 @@
   <p align="left">Intern (2018.8), Java Web development, Zhejiang Rongchuang Information Industry Co., Ltd, China Mobile, Hangzhou, Zhejiang, P.R. China</p>
   </div>
   
+  
+  <!--  
   <h2>Activities</h2>
   <div>
   <p align="left">Deputy Minister (2017.9-2018.7), Student Union of School of Mathematical Sciences</p>
   </div>
+  -->
+  
+  
+  <h2>My Colorful Life</h2>
+  
+  [Hong Kong](./life/daily_hongkong/daily_hongkong.md)
+  
+  [Traveling](./life/traveling/traveling.md)
+  
+  [Cooking & Food](./life/cooking/cooking.md)
+  
+  [Outdoor Activities](./life/outact/outact.md)
+
+  [My Best Friends](./life/friends/friends.md)
+
 
 
   <h2>Honors and Awards</h2>
@@ -51,18 +68,6 @@
       <p align="left"> Third-Class Scholarship for Outstanding Merits, Zhejiang University, 2017-2018 & 2016-2017 </p>
 </div>
 
-
-  <h2>My Colorful Life</h2>
-  
-  [Hong Kong](./life/daily_hongkong/daily_hongkong.md)
-  
-  [Traveling](./life/traveling/traveling.md)
-  
-  [Cooking & Food](./life/cooking/cooking.md)
-  
-  [Outdoor Activities](./life/outact/outact.md)
-
-  [My Best Friends](./life/friends/friends.md)
 
 
 <!--  
