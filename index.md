@@ -26,7 +26,7 @@
   
   
 <p align="left">Prof. E Weinan:</p>
-<p align="center"> <b> The Dawning of a New Era in Applied Mathematics --- Machine Learning </b> </p>
+<p align="center" style="font-size = 20px;"> <b> The Dawning of a New Era in Applied Mathematics --- Machine Learning </b> </p>
 
   
 
