@@ -1,1 +1,17 @@
 remote_theme: christianezeani/panthera-jekyll
+
+left_side:
+  background_image: /
+  background_color: "#F00"
+  close_button_color: "#F00"
+  text_color: "#F00"
+
+menu:
+  - text: Portfolio
+    link: /
+    icon: ""
+
+  - text: Skills & Offers
+    link: /
+    icon: ""
+  
