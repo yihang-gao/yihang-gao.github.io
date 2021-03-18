@@ -18,14 +18,18 @@
 <tr>
   <td>
   <p align="left"><b>
-  I received B.S. in Mathematics from Zhejiang University, Hangzhou, P.R. China. My research interests are computation, optimization and data science (statistical machine learning). Now I am working on Tensor Computation. 
+  I received B.S. in Mathematics from Zhejiang University, Hangzhou, P.R. China. My research interests are Machine Learning Theorey (especially Deep learning Theorey), Data Science, Tensor (Matrix) Computation and Optimization. Now I am working on Tensor Computation. 
  </b></p>
     </td>
   </tr>
   </table>
   
+  
   <h2>Publications</h2>
   <p align="left">[1] Still under review.</p>
+  
+  
+  
   
   <h2>Research and Intern Experience</h2>
   <div>
