@@ -3,7 +3,7 @@
     <td width="75%">
       <h1>GAO Yihang 高伊杭</h1>
       <p align="left"><b>Ph.D. candidate in Mathematics, Supervisor: <a href="https://hkumath.hku.hk/~mng/">Prof. Michael K. NG</a></b></p>
-      <p align="left"><b>Department of Mathematics, The University of Hong Kong, Hong Kong S.A.R.</b></p>
+      <p align="left"><b>Department of Mathematics, The University of Hong Kong, Hong Kong</b></p>
       <p align="left"><b>Email: gaoyh@connect.hku.hk (preferred)  or   yihanggao@outlook.com</b></p>
       <p align="left"><b>Address: Run Run Shaw Building, Department of Mathematics, The University of Hong Kong, Pokfulam, Hong Kong</b></p>
     </td>
@@ -44,14 +44,7 @@
   <p align="left">Summer Research (2019.7-2019.8), Supervised by Dr. Min Chi, Department of Computer Science, North Carolina State University, Raleigh, NC, USA </p>
   <p align="left">Intern (2018.8), Java Web development, Zhejiang Rongchuang Information Industry Co., Ltd, China Mobile, Hangzhou, Zhejiang, P.R. China</p>
   </div>
-  
-  
-  <!--  
-  <h2>Activities</h2>
-  <div>
-  <p align="left">Deputy Minister (2017.9-2018.7), Student Union of School of Mathematical Sciences</p>
-  </div>
-  -->
+
   
   
   <h2>My Colorful Life</h2>
