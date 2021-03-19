@@ -1,7 +1,7 @@
 ---
 ---
 
-# Preprint
+# Preprints
 
 
-# Published
+# Publications
