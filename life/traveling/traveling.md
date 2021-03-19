@@ -8,7 +8,7 @@
 
 [Hangzhou](./China/traveling_hz.md)
 
-Beijing/ Shanghai/ 
+Beijing, Shanghai, Nanjing, Chengdu, Chongqing, Dalian, Xiamen, Wuhan, Xi'an, Ningbo, etc.
 
 <h1>USA</h1>
 
