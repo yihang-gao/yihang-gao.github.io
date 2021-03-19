@@ -1,11 +1,11 @@
 # My Colorful Life
   
-  [Hong Kong](../life/daily_hongkong/daily_hongkong.md)
+  [Hong Kong](../life/daily_hongkong/daily_hongkong)
   
-  [Traveling](../life/traveling/traveling.md)
+  [Traveling](../life/traveling/traveling)
   
-  [Cooking & Food](../life/cooking/cooking.md)
+  [Cooking & Food](../life/cooking/cooking)
   
-  [Outdoor Activities](../life/outact/outact.md)
+  [Outdoor Activities](../life/outact/outact)
 
-  [My Best Friends](../life/friends/friends.md)
+  [My Best Friends](../life/friends/friends)
