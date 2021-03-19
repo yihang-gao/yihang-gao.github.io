@@ -8,6 +8,8 @@
 
 [Hangzhou](./China/traveling_hz.md)
 
+Beijing/ Shanghai/ 
+
 <h1>USA</h1>
 
 [Raleigh, USA](./USA/traveling_raleigh_usa.md) (2019.7-2019.8)
