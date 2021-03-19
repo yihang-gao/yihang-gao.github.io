@@ -8,7 +8,7 @@ left_side:
 menu:
 
   - text: Home
-    link: /
+    link: /index
     icon: ""
     
     
