@@ -6,6 +6,12 @@ left_side:
   background_image: "./background.jpg"
 
 menu:
+
+  - text: Home
+    link: /
+    icon: ""
+    
+    
   - text: Publications
     link: /publications
     icon: ""
