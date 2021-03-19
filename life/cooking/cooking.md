@@ -1,4 +1,4 @@
-[Go back](../../index.md)
+[Go back](../colourful_life.md)
 
 仍在建设中...
 
