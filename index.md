@@ -9,7 +9,7 @@
     </td>
     <td width="25%">
       <center>
-      
+      <img src="/GAOYihang_img.jpg" width="100%"> 
         </center>
     </td>
   </tr>
