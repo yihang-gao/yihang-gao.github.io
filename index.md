@@ -43,5 +43,5 @@
   
  <div> 
   <p align="left"> Welcome to contact me via email if needed. </p>
-  <p align="left"> The Website was last updated on 2021.05.19. </p>
+  <p align="left"> The Website was last updated on 22 Oct. 2021. </p>
   </div>
