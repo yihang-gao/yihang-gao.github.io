@@ -2,6 +2,7 @@
 May 2021, SIAM Conference on Applied Linear Algebra (LA21) with SIAM Student Travel Award.
 
 # Teaching Assistance
+MATH3401 Analysis I (2021 Fall), The University of Hong Kong
 MATH1013 University Mathematics II (2021 Spring), The University of Hong Kong
 
 
