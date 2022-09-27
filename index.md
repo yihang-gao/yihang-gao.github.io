@@ -47,6 +47,5 @@
   <br/>
   
  <div> 
-  <p align="left"> Welcome to contact me via email if needed. </p>
   <p align="left"> The Website was last updated on 27 Sep. 2022. </p>
   </div>
