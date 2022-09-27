@@ -19,4 +19,4 @@
   
 # Publications
 
-*  Yihang Gao and Michael K. Ng. Wasserstein Generative Adversarial Uncertainty Quantification in Physics-Informed Neural Networks, 2021. <a href="https://arxiv.org/abs/2108.13054">arxiv</a>
+*  Yihang Gao and Michael K. Ng. Wasserstein Generative Adversarial Uncertainty Quantification in Physics-Informed Neural Networks, *Journal of Computational Physics*, 2022. <a href="https://arxiv.org/abs/2108.13054">arxiv</a>
