@@ -1,7 +1,7 @@
 # Presentations
-<p align="left"> Nov 2021, The 10th CRF Workshop. </p>
-<p align="left"> Nov 2021, The 1st ORSHK Young Researchers Workshop. </p>
-<p align="left"> May 2021, SIAM Conference on Applied Linear Algebra (LA21) with SIAM Student Travel Award. </p>
+<p align="left"> The 10th CRF Workshop, Nov 2021. </p>
+<p align="left"> The 1st ORSHK Young Researchers Workshop, Nov 2021. </p>
+<p align="left"> SIAM Conference on Applied Linear Algebra (LA21) with SIAM Student Travel Award, May 2021. </p>
 
 
 # Teaching Assistance
