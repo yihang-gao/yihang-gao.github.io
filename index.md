@@ -18,7 +18,7 @@
 <tr>
   <td>
   <p align="left"><b>
-  I received B.S. in Mathematics from Zhejiang University, Hangzhou, P.R. China. My research interest includes Scientific Machine Learning, Optimization, Data Science and Tensor Computation. 
+  Hi, I'm Yihang, a libra boy. I'm very fortunated to be supervised/advised by Prof. Ng. I received B.S. in Mathematics from Zhejiang University, Hangzhou, P.R. China. My research interest includes Scientific Machine Learning, Optimization, Data Science and Tensor Computation. 
  </b></p>
     </td>
   </tr>
