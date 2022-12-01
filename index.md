@@ -47,5 +47,5 @@
   <br/>
   
  <div> 
-  <p align="left"> The Website was last updated on 27 Sep. 2022. </p>
+  <p align="left"> The Website was last updated on 27 Nov. 2022. </p>
   </div>
