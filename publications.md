@@ -6,7 +6,7 @@
   
 # Publications
 
-my <a href="https://scholar.google.com/citations?user=wbVQ6okAAAAJ&hl=en&oi=ao">Google Scholar</a>
+<a href="https://scholar.google.com/citations?user=wbVQ6okAAAAJ&hl=en&oi=ao">Google Scholar</a>
 
 * Yihang Gao, Yiqi Gu and Michael K. Ng. Gradient Descent Finds the Global Optima of Two-Layer Physics-Informed Neural Networks, accepted by *40th International Conference on Machine Learning 2023* (ICML 2023). 
 
