@@ -8,6 +8,8 @@
 
 <a href="https://scholar.google.com/citations?user=wbVQ6okAAAAJ&hl=en&oi=ao">Google Scholar</a>
 
+### Journal Papers (Mathematics)
+
 * Yihang Gao, Michael K. Ng, Mingjie Zhou. Approximating Probability Distributions by Using Wasserstein Generative Adversarial Networks, accepted by *SIAM Journal on Mathematics of Data Science*, 2023+.
 
 * Yihang Gao, Yiqi Gu and Michael K. Ng. Gradient Descent Finds the Global Optima of Two-Layer Physics-Informed Neural Networks, accepted by *40th International Conference on Machine Learning 2023* (ICML 2023). <a href="https://openreview.net/forum?id=DRMh8mVEav">paper</a>
