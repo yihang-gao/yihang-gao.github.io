@@ -19,3 +19,8 @@
 * Yihang Gao, Ka Chun Cheung and Michael K. Ng. SVD-PINNs: Transfer Learning of Physics-Informed Neural Networks via Singular Value Decomposition, *IEEE Symposium Series on Computational Intelligence 2022* (IEEE SSCI 2022). <a href="https://ieeexplore.ieee.org/document/10022281">paper</a> (<a href="https://arxiv.org/abs/2211.08760">arxiv</a>)
 
 *  Yihang Gao and Michael K. Ng. Wasserstein Generative Adversarial Uncertainty Quantification in Physics-Informed Neural Networks, *Journal of Computational Physics*, 2022. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999122003321">paper</a> (<a href="https://arxiv.org/abs/2108.13054">arxiv</a>)
+
+
+### Conference Papers (Computer Science/ML/AI)
+
+
