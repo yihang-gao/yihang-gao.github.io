@@ -6,7 +6,7 @@
 <p align="left"> SIAM Conference on Applied Linear Algebra (LA21) with SIAM Student Travel Award, Virtual Conference, May 2021. </p>
 
 
-# Teaching Assistance
+# Teaching Assistant
 <div>
 <p align="left"> MATH2101 Linear Algebra I (2022 Fall), The University of Hong Kong. </p>
 <p align="left"> MATH3401 Analysis I (2021 Fall), The University of Hong Kong. </p>
