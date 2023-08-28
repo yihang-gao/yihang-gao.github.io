@@ -1,5 +1,5 @@
 # Presentations
-<p align="left"> SIAM Conference on Optimization (OP23), Seatle, WA, US, June 2023. </p>
+<p align="left"> SIAM Conference on Optimization (OP23), Seatle, WA, USA, June 2023. </p>
 <p align="left"> The 2022 IEEE Symposium Series on Computational Intelligence (IEEE SSCI), Singapore, Dec. 2022. </p>
 <p align="left"> The 10th CRF Workshop, Virtual Conference, Nov. 2022. </p>
 <p align="left"> The 1st ORSHK Young Researchers Workshop, Hong Kong, Nov. 2022. </p>
