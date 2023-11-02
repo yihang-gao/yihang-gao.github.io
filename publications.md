@@ -13,7 +13,7 @@
 * Yihang Gao, Michael K. Ng, Mingjie Zhou. Approximating Probability Distributions by Using Wasserstein Generative Adversarial Networks, accepted by *SIAM Journal on Mathematics of Data Science*, 2023+.
 
 
-*  Yihang Gao, Xuelei Lin, Michael K. Ng. Blind Deconvolution for Multiple Observed Images with Missing Values, *Pacific Journal of Optimization*, 2023. <a href="http://www.yokohamapublishers.jp/online2/pjov19-1.html">paper</a>
+*  Yihang Gao, Xuelei Lin, Michael K. Ng. Blind Deconvolution for Multiple Observed Images with Missing Values, *Pacific Journal of Optimization*, 2023. <a href="http://www.yokohamapublishers.jp/online-p/PJO/vol19/pjov19n1p69.pdf">paper</a>
 
 
 *  Yihang Gao and Michael K. Ng. Wasserstein Generative Adversarial Uncertainty Quantification in Physics-Informed Neural Networks, *Journal of Computational Physics*, 2022. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999122003321">paper</a> (<a href="https://arxiv.org/abs/2108.13054">arxiv</a>)
