@@ -18,7 +18,7 @@
 <tr>
   <td>
   <p align="left"><b>
-  Hi, I'm Yihang, a Libra boy. I obtained my Ph.D. in mathematics from The University of Hong Kong advised by Prof. Michael K. NG. I received B.S. in Mathematics from Zhejiang University, Hangzhou, P.R. China. My research interests include Scientific Machine Learning, Optimization, Data Science, and Tensor Computation. 
+  Hi, I'm Yihang, a Libra boy. I obtained my Ph.D. in mathematics from The University of Hong Kong, advised by Prof. Michael K. NG. I received B.S. in Mathematics from Zhejiang University, Hangzhou, P.R. China. My research interests include Scientific Machine Learning, Optimization, Data Science, and Tensor Computation. 
  </b></p>
     </td>
   </tr>
