@@ -4,7 +4,7 @@
       <h1>GAO Yihang 高伊杭</h1>
       <p align="left"><b>Ph.D. in Mathematics, Supervisor: <a href="https://hkumath.hku.hk/~mng/">Prof. Michael K. NG</a></b></p>
       <p align="left"><b>Department of Mathematics, The University of Hong Kong, Hong Kong</b></p>
-      <p align="left"><b>Email: gaoyh at connect.hku.hk</b></p>
+      <p align="left"><b>Email: gaoyh at connect dot hku dot hk</b></p>
       <p align="left"><b>Address: Run Run Shaw Building, Department of Mathematics, The University of Hong Kong, Pokfulam, Hong Kong</b></p>
     </td>
     <td width="25%">
