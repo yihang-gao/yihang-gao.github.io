@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>GAO Yihang 高伊杭</h1>
-      <p align="left"><b>Ph.D. candidate in Mathematics, Supervisor: <a href="https://hkumath.hku.hk/~mng/">Prof. Michael K. NG</a></b></p>
+      <p align="left"><b>Ph.D. in Mathematics, Supervisor: <a href="https://hkumath.hku.hk/~mng/">Prof. Michael K. NG</a></b></p>
       <p align="left"><b>Department of Mathematics, The University of Hong Kong, Hong Kong</b></p>
       <p align="left"><b>Email: gaoyh at connect.hku.hk</b></p>
       <p align="left"><b>Address: Run Run Shaw Building, Department of Mathematics, The University of Hong Kong, Pokfulam, Hong Kong</b></p>
@@ -18,7 +18,7 @@
 <tr>
   <td>
   <p align="left"><b>
-  Hi, I'm Yihang, a Libra boy. I'm very fortunated to be supervised by Prof. Michael Ng. I received B.S. in Mathematics from Zhejiang University, Hangzhou, P.R. China. My research interests include Scientific Machine Learning, Optimization, Data Science and Tensor Computation. 
+  Hi, I'm Yihang, a Libra boy. I'm very fortunate to be supervised by Prof. Michael Ng and obtain my Ph.D. degree in mathematics from The University of Hong Kong. I received B.S. in Mathematics from Zhejiang University, Hangzhou, P.R. China. My research interests include Scientific Machine Learning, Optimization, Data Science, and Tensor Computation. 
  </b></p>
     </td>
   </tr>
