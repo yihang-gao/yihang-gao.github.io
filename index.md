@@ -18,7 +18,7 @@
 <tr>
   <td>
   <p align="left"><b>
-  Hi, I'm Yihang, a Libra boy. I am currently a Research Fellow at the Department of Mathematics, National University of Singapore, advised by Prof. Vincent Tan. I obtained my Ph.D. in Mathematics from The University of Hong Kong under the supervision of <a href="https://hkumath.hku.hk/~mng/">Prof. Michael K. NG</a>. I received B.S. in Mathematics from Zhejiang University, Hangzhou, P.R. China. My research interests include Scientific Machine Learning, Optimization, Data Science, and Tensor Computation. 
+  Hi, I'm Yihang, a Libra boy. I am currently an Research Fellow at the Department of Mathematics, National University of Singapore, advised by Prof. Vincent Tan. I obtained my Ph.D. in Mathematics from The University of Hong Kong under the supervision of <a href="https://hkumath.hku.hk/~mng/">Prof. Michael K. NG</a>. I received B.S. in Mathematics from Zhejiang University, Hangzhou, P.R. China. My research interests include Scientific Machine Learning, Optimization, Data Science, and Tensor Computation. 
  </b></p>
     </td>
   </tr>
