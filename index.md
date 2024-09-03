@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>GAO Yihang 高伊杭</h1>
-      <p align="left"><b>Research Fellow (NUS) in Mathematics, Supervisor: <a href="https://hkumath.hku.hk/~mng/">Prof. Vincent Tan</a></b></p>
+      <p align="left"><b>Research Fellow (NUS) in Mathematics, Supervisor: <a href="https://vyftan.github.io/">Prof. Vincent Tan</a></b></p>
       <p align="left"><b>Ph.D. (HKU) in Mathematics, Supervisor: <a href="https://hkumath.hku.hk/~mng/">Prof. Michael K. NG</a></b></p>
       <p align="left"><b>Email: gaoyh at nus dot edu dot sg</b> & <b>gaoyh at connect dot hku dot hk</b></p>
       <p align="left"><b>Address: Department of Mathematics, Block S17, 10 Lower Kent Ridge Road, Singapore 119076</b></p>
@@ -18,7 +18,7 @@
 <tr>
   <td>
   <p align="left"><b>
-  Hi, I'm Yihang, a Libra boy. I am currently an Research Fellow at the Department of Mathematics, National University of Singapore, advised by Prof. Vincent Tan. I obtained my Ph.D. in Mathematics from The University of Hong Kong under the supervision of <a href="https://hkumath.hku.hk/~mng/">Prof. Michael K. NG</a>. I received B.S. in Mathematics from Zhejiang University, Hangzhou, P.R. China. My research interests include Scientific Machine Learning, Optimization, Data Science, and Tensor Computation. 
+  Hi, I'm Yihang, a Libra boy. I am currently an Research Fellow at the Department of Mathematics, National University of Singapore, advised by Prof. Vincent Tan. I obtained my Ph.D. in Mathematics from The University of Hong Kong under the supervision of Prof. Michael K. NG. I received B.S. in Mathematics from Zhejiang University, Hangzhou, P.R. China. My research interests include Scientific Machine Learning, Optimization, Data Science, and Tensor Computation. 
  </b></p>
     </td>
   </tr>
