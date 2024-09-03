@@ -5,7 +5,7 @@
       <p align="left"><b>Research Fellow (NUS) in Mathematics, Supervisor: <a href="https://hkumath.hku.hk/~mng/">Prof. Vincent Tan</a></b></p>
       <p align="left"><b>Ph.D. (HKU) in Mathematics, Supervisor: <a href="https://hkumath.hku.hk/~mng/">Prof. Michael K. NG</a></b></p>
       <p align="left"><b>Email: gaoyh at nus dot edu dot sg</b> & <b>gaoyh at connect dot hku dot hk</b></p>
-      <p align="left"><b>Address: Run Run Shaw Building, Department of Mathematics, The University of Hong Kong, Pokfulam, Hong Kong</b></p>
+      <p align="left"><b>Address: Department of Mathematics, Block S17, 10 Lower Kent Ridge Road, Singapore 119076</b></p>
     </td>
     <td width="25%">
       <center>
