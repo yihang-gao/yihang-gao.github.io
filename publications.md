@@ -21,7 +21,7 @@
 
 # Conference Papers (Computer Science/ML/AI)
 
-* Chuanyang Zheng*, __Yihang Gao__ *, Han Shi, Minbin Huang, Jingyao Li, Jing Xiong, Xiaozhe Ren, Michael K. Ng, Xin Jiang, Zhenguo Li, Yu Li. DAPE: Data-Adaptive Positional Encoding for Length Extrapolation, *Advances in Neural Information Processing Systems 2024* (NeurIPS 2024). (* indicates equal contribution) <a href="https://arxiv.org/abs/2405.14722">arxiv</a>
+* Chuanyang Zheng*, __Yihang Gao__*, Han Shi, Minbin Huang, Jingyao Li, Jing Xiong, Xiaozhe Ren, Michael K. Ng, Xin Jiang, Zhenguo Li, Yu Li. DAPE: Data-Adaptive Positional Encoding for Length Extrapolation, *Advances in Neural Information Processing Systems 2024* (NeurIPS 2024). (* indicates equal contribution) <a href="https://arxiv.org/abs/2405.14722">arxiv</a>
 
 * **Yihang Gao**, Yiqi Gu and Michael K. Ng. Gradient Descent Finds the Global Optima of Two-Layer Physics-Informed Neural Networks, *40th International Conference on Machine Learning 2023* (ICML 2023). <a href="https://proceedings.mlr.press/v202/gao23b.html">paper</a>
 
