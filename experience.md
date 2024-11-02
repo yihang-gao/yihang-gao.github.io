@@ -1,5 +1,5 @@
 # Referee Service
-I have served as a reviewer for the following journals and machine learning conferences: NeurIPS, ICLR, AISTATS, IEEE Transactions on Computational Social Systems (IEEE TCCS), Numerical Linear Algebra with Applications (NLAA). 
+I have served as a reviewer for the following journals and machine learning conferences: NeurIPS, ICLR, AISTATS, COLING, IEEE Transactions on Computational Social Systems (IEEE TCCS), Numerical Linear Algebra with Applications (NLAA). 
 
 
 # Presentations
