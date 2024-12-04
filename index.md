@@ -47,5 +47,5 @@
   <br/>
   
  <div> 
-  <p align="left"> The Website was updated in Sep 2024. </p>
+  <p align="left"> The Website was updated in Nov. 2024. </p>
   </div>
