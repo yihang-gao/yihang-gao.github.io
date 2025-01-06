@@ -8,6 +8,9 @@
 
 <a href="https://scholar.google.com/citations?user=wbVQ6okAAAAJ&hl=en&oi=ao">Google Scholar</a>
 
+
+(\* indicates equal contribution)
+
 # Journal Papers (Mathematics/ML)
 
 * Yihang Gao\*, Chuanyang Zheng\*, Enze Xie, Han Shi, Tianyang Hu, Yu Li, Michael Ng, Zhenguo Li, Zhaoqiang Liu. AlgoFormer: An Efficient Transformer Framework with Algorithmic Structures, *Transactions on Machine Learning Research*, 2025. <a href="https://openreview.net/forum?id=oYP2Pd5aQt">paper</a>
@@ -23,7 +26,7 @@
 
 # Conference Papers (Computer Science/ML/AI)
 
-* Chuanyang Zheng\*, Yihang Gao\*, Han Shi, Minbin Huang, Jingyao Li, Jing Xiong, Xiaozhe Ren, Michael K. Ng, Xin Jiang, Zhenguo Li, Yu Li. DAPE: Data-Adaptive Positional Encoding for Length Extrapolation, *Advances in Neural Information Processing Systems 2024* (NeurIPS 2024). (\* indicates equal contribution) <a href="https://arxiv.org/abs/2405.14722">arxiv</a>
+* Chuanyang Zheng\*, Yihang Gao\*, Han Shi, Minbin Huang, Jingyao Li, Jing Xiong, Xiaozhe Ren, Michael K. Ng, Xin Jiang, Zhenguo Li, Yu Li. DAPE: Data-Adaptive Positional Encoding for Length Extrapolation, *Advances in Neural Information Processing Systems 2024* (NeurIPS 2024). <a href="https://arxiv.org/abs/2405.14722">arxiv</a>
 
 * Yihang Gao, Yiqi Gu, Michael K. Ng. Gradient Descent Finds the Global Optima of Two-Layer Physics-Informed Neural Networks, *40th International Conference on Machine Learning 2023* (ICML 2023). <a href="https://proceedings.mlr.press/v202/gao23b.html">paper</a>
 
