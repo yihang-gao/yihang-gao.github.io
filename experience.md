@@ -10,6 +10,11 @@ I have served as a reviewer for the following journals and machine learning conf
 <p align="left"> The 1st ORSHK Young Researchers Workshop, Hong Kong, Nov. 2022. </p>
 <p align="left"> SIAM Conference on Applied Linear Algebra (LA21) with SIAM Student Travel Award, Virtual Conference, May 2021. </p>
 
+# Teaching as an Instructor
+<div>
+<p align="left"> DSA3102 Convex Optimization (2025 Spring), National University of Singapore. </p>
+</div>
+
 
 # Teaching Assistant
 <div>
