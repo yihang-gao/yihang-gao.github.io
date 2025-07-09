@@ -30,7 +30,7 @@
 
 * Guoxuan Chen and Han Shi and Jiawei Li and **Yihang Gao** and Xiaozhe Ren and Yimeng Chen and Xin Jiang and Zhenguo Li and Weiyang Liu and Chao Huang. SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator, *42nd International Conference on Machine Learning (ICML)*, 2025.
 
-* Chuanyang Zheng, **Yihang Gao**, Han Shi, Jing Xiong, Jiankai Sun, Jingyao Li, Minbin Huang, Xiaozhe Ren, Michael Ng, Xin Jiang, Zhenguo Li, Yu Li. DAPE V2: Process Attention Score as Feature Map for Length Extrapolation, *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL)*, 2025.
+* Chuanyang Zheng, **Yihang Gao**, Han Shi, Jing Xiong, Jiankai Sun, Jingyao Li, Minbin Huang, Xiaozhe Ren, Michael Ng, Xin Jiang, Zhenguo Li, Yu Li. DAPE V2: Process Attention Score as Feature Map for Length Extrapolation, *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL main)*, 2025.
 
 * Chuanyang Zheng\*, **Yihang Gao**\*, Han Shi, Minbin Huang, Jingyao Li, Jing Xiong, Xiaozhe Ren, Michael K. Ng, Xin Jiang, Zhenguo Li, Yu Li. DAPE: Data-Adaptive Positional Encoding for Length Extrapolation, *Advances in Neural Information Processing Systems 2024* (NeurIPS 2024). <a href="https://arxiv.org/abs/2405.14722">arxiv</a>
 
