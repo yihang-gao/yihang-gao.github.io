@@ -13,7 +13,7 @@
 
 # Journal Papers (Mathematics/ML)
 
-* **Yihang Gao**, Michael K. Ng, Vincent Y. F. Tan. Low Tensor-Rank Adaptation of Kolmogorov--Arnold Networks, *IEEE Transactions on Signal Processing*, 2025+.
+* **Yihang Gao**, Michael K. Ng, Vincent Y. F. Tan. Low Tensor-Rank Adaptation of Kolmogorov--Arnold Networks, *IEEE Transactions on Signal Processing*, 2025+. <a href="https://ieeexplore.ieee.org/document/11080085">paper</a>
 
 * **Yihang Gao**, Vincent Y. F. Tan. On the Convergence of (Stochastic) Gradient Descent for Kolmogorov–Arnold Networks, *IEEE Transactions on Information Theory*, 2025+. <a href="https://ieeexplore.ieee.org/abstract/document/11079726">paper</a>
 
