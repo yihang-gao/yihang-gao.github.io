@@ -1,8 +1,9 @@
 # Referee Service
-I have served as a reviewer for the following journals and machine learning conferences: ICML, NeurIPS, ICLR, AISTATS, COLING, IEEE Transactions on Computational Social Systems (IEEE TCCS), Engineering Applications of Artificial Intelligence (EAAI), Numerical Linear Algebra with Applications (NLAA). 
+I have served as a reviewer for the following journals and machine learning conferences: ICML, NeurIPS, ICLR, AISTATS, COLING, IEEE Transactions on Computational Social Systems (IEEE TCCS), Engineering Applications of Artificial Intelligence (EAAI), and Numerical Linear Algebra with Applications (NLAA). 
 
 
 # Presentations
+<p align="left"> Department of Mathematics, HOng Kong Baptist University, Hong Kong, Aug. 2025. </p>
 <p align="left"> ICIAM 2023, Tokyo, Japan, Aug. 2023. </p>
 <p align="left"> SIAM Conference on Optimization (OP23), Seattle, WA, USA, June 2023. </p>
 <p align="left"> The 2022 IEEE Symposium Series on Computational Intelligence (IEEE SSCI), Singapore, Dec. 2022. </p>
