@@ -30,7 +30,7 @@
 
 # Conference Papers (Computer Science/ML/AI)
 
-* Guoxuan Chen and Han Shi and Jiawei Li and **Yihang Gao** and Xiaozhe Ren and Yimeng Chen and Xin Jiang and Zhenguo Li and Weiyang Liu and Chao Huang. SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator, *42nd International Conference on Machine Learning (ICML)*, 2025.
+* Guoxuan Chen, Han Shi, Jiawei Li, **Yihang Gao**, Xiaozhe Ren, Yimeng Chen, Xin Jiang, Zhenguo Li, Weiyang Liu, Chao Huang. SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator, *42nd International Conference on Machine Learning (ICML)*, 2025.
 
 * Chuanyang Zheng, **Yihang Gao**, Han Shi, Jing Xiong, Jiankai Sun, Jingyao Li, Minbin Huang, Xiaozhe Ren, Michael Ng, Xin Jiang, Zhenguo Li, Yu Li. DAPE V2: Process Attention Score as Feature Map for Length Extrapolation, *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL main)*, 2025.
 
