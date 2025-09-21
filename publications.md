@@ -30,6 +30,10 @@
 
 # Conference Papers (Computer Science/ML/AI)
 
+* Chuanyang Zheng, Jiankai Sun, **Yihang Gao**, Yuehao Wang, Peihao Wang, Jing Xiong, Liliang Ren, Hao Cheng, Janardhan Kulkarni, Yelong Shen, Zhangyang Wang, Mac Schwager, Anderson Schneider, Xiaodong Liu, Jianfeng Gao, SAS: Simulated Attention Score, Accepted by *Advances in Neural Information Processing Systems (NeurIPS)*, 2025.
+
+* Chuanyang Zheng, **Yihang Gao**, Guoxuan Chen, Han Shi, Jing Xiong, Xiaozhe Ren, Chao Huang, Zhenguo Li, Yu Li. Self-Adjust Softmax, *The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP Main)*, 2025. 
+
 * Guoxuan Chen, Han Shi, Jiawei Li, **Yihang Gao**, Xiaozhe Ren, Yimeng Chen, Xin Jiang, Zhenguo Li, Weiyang Liu, Chao Huang. SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator, *42nd International Conference on Machine Learning (ICML)*, 2025.
 
 * Chuanyang Zheng, **Yihang Gao**, Han Shi, Jing Xiong, Jiankai Sun, Jingyao Li, Minbin Huang, Xiaozhe Ren, Michael Ng, Xin Jiang, Zhenguo Li, Yu Li. DAPE V2: Process Attention Score as Feature Map for Length Extrapolation, *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL main)*, 2025.
