@@ -3,7 +3,7 @@ I have served as a reviewer for the following journals and machine learning conf
 
 
 # Presentations
-<p align="left"> Seminar, Department of Electrical Engineering, Hong Kong Polytechnic University, Hong Kong, Nov. 2025. </p>
+<p align="left"> Seminar, Department of Electrical and Electronic Engineering, Hong Kong Polytechnic University, Hong Kong, Nov. 2025. </p>
 <p align="left"> Seminar, Department of Computer Science, City University of Hong Kong, Hong Kong, Nov. 2025. </p>
 <p align="left"> Colloquium, Department of Mathematics, Hong Kong Baptist University, Hong Kong, Aug. 2025. </p>
 <p align="left"> ICIAM 2023, Tokyo, Japan, Aug. 2023. </p>
