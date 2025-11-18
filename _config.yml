@@ -17,8 +17,12 @@ menu:
     link: /publications
     icon: ""
 
-  - text: Experience
-    link: /experience
+  - text: Research Experience
+    link: /research_experience
+    icon: ""
+
+  - text: Teaching Experience
+    link: /teaching_experience
     icon: ""
     
   - text: Honors & Awards
