@@ -25,7 +25,7 @@
 [J2] **Yihang Gao**, Xuelei Lin, Michael K. Ng. Blind Deconvolution for Multiple Observed Images with Missing Values, *Pacific Journal of Optimization*, 2023. <a href="http://www.yokohamapublishers.jp/online-p/PJO/vol19/pjov19n1p69.pdf">paper</a>
 
 
-[J1] **Yihang Gao** and Michael K. Ng. Wasserstein Generative Adversarial Uncertainty Quantification in Physics-Informed Neural Networks, *Journal of Computational Physics*, 2022. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999122003321">paper</a> (<a href="https://arxiv.org/abs/2108.13054">arxiv</a>)
+[J1] **Yihang Gao** and Michael K. Ng. Wasserstein Generative Adversarial Uncertainty Quantification in Physics-Informed Neural Networks, *Journal of Computational Physics*, 2022. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0021999122003321">paper</a> (<a href="https://arxiv.org/abs/2108.13054">arXiv</a>)
 
 
 # Conference Papers (Computer Science/ML/AI)
@@ -38,13 +38,13 @@
 
 [C5] Chuanyang Zheng, **Yihang Gao**, Han Shi, Jing Xiong, Jiankai Sun, Jingyao Li, Minbin Huang, Xiaozhe Ren, Michael Ng, Xin Jiang, Zhenguo Li, Yu Li. DAPE V2: Process Attention Score as Feature Map for Length Extrapolation, *The 63rd Annual Meeting of the Association for Computational Linguistics (ACL main)*, 2025.
 
-[C4] Chuanyang Zheng\*, **Yihang Gao**\*, Han Shi, Minbin Huang, Jingyao Li, Jing Xiong, Xiaozhe Ren, Michael K. Ng, Xin Jiang, Zhenguo Li, Yu Li. DAPE: Data-Adaptive Positional Encoding for Length Extrapolation, *Advances in Neural Information Processing Systems 2024* (NeurIPS 2024). <a href="https://arxiv.org/abs/2405.14722">arxiv</a>
+[C4] Chuanyang Zheng\*, **Yihang Gao**\*, Han Shi, Minbin Huang, Jingyao Li, Jing Xiong, Xiaozhe Ren, Michael K. Ng, Xin Jiang, Zhenguo Li, Yu Li. DAPE: Data-Adaptive Positional Encoding for Length Extrapolation, *Advances in Neural Information Processing Systems 2024* (NeurIPS 2024). <a href="https://arxiv.org/abs/2405.14722">arXiv</a>
 
 [C3] **Yihang Gao**, Yiqi Gu, Michael K. Ng. Gradient Descent Finds the Global Optima of Two-Layer Physics-Informed Neural Networks, *40th International Conference on Machine Learning 2023* (ICML 2023). <a href="https://proceedings.mlr.press/v202/gao23b.html">paper</a>
 
 [C2] **Yihang Gao**, Man-Chung Yue, Michael K. Ng. Approximate Secular Equations for the Cubic Regularization Subproblem, *Advances in Neural Information Processing Systems 2022* (NeurIPS 2022). <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/5be69a584901a26c521c2b51e40a4c20-Abstract-Conference.html">paper</a> / <a href="https://nips.cc/media/PosterPDFs/NeurIPS%202022/55185.png?t=1667932541.6990232">poster</a> / <a href="https://nips.cc/media/neurips-2022/Slides/55185.pdf">slides</a> 
 
-[C1] **Yihang Gao**, Ka Chun Cheung, Michael K. Ng. SVD-PINNs: Transfer Learning of Physics-Informed Neural Networks via Singular Value Decomposition, *IEEE Symposium Series on Computational Intelligence 2022* (IEEE SSCI 2022). <a href="https://ieeexplore.ieee.org/document/10022281">paper</a> (<a href="https://arxiv.org/abs/2211.08760">arxiv</a>)
+[C1] **Yihang Gao**, Ka Chun Cheung, Michael K. Ng. SVD-PINNs: Transfer Learning of Physics-Informed Neural Networks via Singular Value Decomposition, *IEEE Symposium Series on Computational Intelligence 2022* (IEEE SSCI 2022). <a href="https://ieeexplore.ieee.org/document/10022281">paper</a> (<a href="https://arxiv.org/abs/2211.08760">arXiv</a>)
 
 
 
@@ -52,7 +52,6 @@
 
 [P2] **Yihang Gao**, Michael Ng, Michael W. Mahoney, Sen Na. Online Inference of Constrained Optimization: Primal-Dual Optimality and Sequential Quadratic Programming. Under review at a journal.
 
-[P1] **Yihang Gao**, Vincent Y. F. Tan. Automatic Rank Determination for Low Rank Adaptation via Submodular Function Maximization. Short version accepted by MATH4AI Workshop @ AAAI 2026; Long version under review at a journal. <a href="https://arxiv.org/abs/2507.01841">arxiv</a>
-[arXiv](https://arxiv.org/abs/2507.01841)
+[P1] **Yihang Gao**, Vincent Y. F. Tan. Automatic Rank Determination for Low Rank Adaptation via Submodular Function Maximization. Short version accepted by MATH4AI Workshop @ AAAI 2026; Long version under review at a journal. <a href="https://arxiv.org/abs/2507.01841">arXiv</a>
 
 
