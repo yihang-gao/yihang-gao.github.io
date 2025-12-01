@@ -11,6 +11,16 @@
 
 (\* indicates equal contribution)
 
+
+
+# Preprints
+
+[P2] **Yihang Gao**, Michael Ng, Michael W. Mahoney, Sen Na. Online Inference of Constrained Optimization: Primal-Dual Optimality and Sequential Quadratic Programming. Under review at a journal.
+
+[P1] **Yihang Gao**, Vincent Y. F. Tan. Automatic Rank Determination for Low Rank Adaptation via Submodular Function Maximization. Short version accepted by MATH4AI Workshop @ AAAI 2026; Long version under review at a journal. <a href="https://arxiv.org/abs/2507.01841">arXiv</a>
+
+
+
 # Journal Papers (Mathematics/ML)
 
 [J6] **Yihang Gao**, Michael K. Ng, Vincent Y. F. Tan. Low Tensor-Rank Adaptation of Kolmogorov--Arnold Networks, *IEEE Transactions on Signal Processing*, 2025. <a href="https://ieeexplore.ieee.org/document/11080085">paper</a>
@@ -48,10 +58,5 @@
 
 
 
-# Preprints
-
-[P2] **Yihang Gao**, Michael Ng, Michael W. Mahoney, Sen Na. Online Inference of Constrained Optimization: Primal-Dual Optimality and Sequential Quadratic Programming. Under review at a journal.
-
-[P1] **Yihang Gao**, Vincent Y. F. Tan. Automatic Rank Determination for Low Rank Adaptation via Submodular Function Maximization. Short version accepted by MATH4AI Workshop @ AAAI 2026; Long version under review at a journal. <a href="https://arxiv.org/abs/2507.01841">arXiv</a>
 
 
