@@ -1,8 +1,9 @@
 # Referee Service
-I have served as a reviewer for the following journals and machine learning conferences: ICML, NeurIPS, ICLR, AISTATS, AAAI, COLING, IEEE Transactions on Signal Processing (IEEE TSP), IEEE Transactions on Computational Social Systems (IEEE TCCS), Engineering Applications of Artificial Intelligence (EAAI), and Numerical Linear Algebra with Applications (NLAA), Machine Learning Journal. 
+I have served as a reviewer for the following journals and machine learning conferences: ICML, NeurIPS, ICLR, AISTATS, AAAI, COLING, IEEE Transactions on Signal Processing (IEEE TSP), IEEE Transactions on Computational Social Systems (IEEE TCCS), Engineering Applications of Artificial Intelligence (EAAI), Numerical Linear Algebra with Applications (NLAA), Neurocomputing, and Machine Learning Journal. 
 
 
 # Presentations
+<p align="left"> Seminar, Department of Electrical and Electronic Engineering, The University of Hong Kong, Hong Kong, Jan. 2026. </p>
 <p align="left"> Seminar, Department of Electrical and Electronic Engineering, Hong Kong Polytechnic University, Hong Kong, Nov. 2025. </p>
 <p align="left"> Seminar, Department of Computer Science, City University of Hong Kong, Hong Kong, Nov. 2025. </p>
 <p align="left"> Colloquium, Department of Mathematics, Hong Kong Baptist University, Hong Kong, Aug. 2025. </p>
