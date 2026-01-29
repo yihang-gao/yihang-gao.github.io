@@ -40,7 +40,7 @@
 
 # Conference Papers (Computer Science/ML/AI)
 
-[C9] Chuanyang Zheng, Jiankai Sun, **Yihang Gao**, Enze Xie, Yuehao Wang, Peihao Wang, Ting Xu, Matthew Chang, Liliang Ren, Jingyao Li, Jing Xiong, Kashif Rasul, Mac Schwager, Anderson Schneider, Zhangyang Wang, Yuriy Nevmyvaka, Understanding the mixture-of-experts with Nadaraya-Watson kernel, Accepted by *International Conference on Learning Representations} (ICLR)*, 2026.
+[C9] Chuanyang Zheng, Jiankai Sun, **Yihang Gao**, Enze Xie, Yuehao Wang, Peihao Wang, Ting Xu, Matthew Chang, Liliang Ren, Jingyao Li, Jing Xiong, Kashif Rasul, Mac Schwager, Anderson Schneider, Zhangyang Wang, Yuriy Nevmyvaka, Understanding the mixture-of-experts with Nadaraya-Watson kernel, Accepted by *International Conference on Learning Representations (ICLR)*, 2026.
 
 [C8] Chuanyang Zheng, Jiankai Sun, **Yihang Gao**, Yuehao Wang, Peihao Wang, Jing Xiong, Liliang Ren, Hao Cheng, Janardhan Kulkarni, Yelong Shen, Zhangyang Wang, Mac Schwager, Anderson Schneider, Xiaodong Liu, Jianfeng Gao, SAS: Simulated Attention Score, *Advances in Neural Information Processing Systems (NeurIPS)*, 2025.
 
