@@ -22,7 +22,7 @@
 
 # Journal Papers (Mathematics/ML)
 
-[J7] **Yihang Gao**, Vincent Y. F. Tan. Automatic Rank Determination for Low Rank Adaptation via Submodular Function Maximization. Short version accepted by MATH4AI Workshop @ AAAI 2026; Long version accepted by *IEEE Transactions on Signal Processing*, 2026. <a href="https://arxiv.org/abs/2507.01841">arXiv</a>
+[J7] **Yihang Gao**, Vincent Y. F. Tan. Automatic Rank Determination for Low Rank Adaptation via Submodular Function Maximization. Short version published at MATH4AI Workshop @ AAAI 2026; Long version published at *IEEE Transactions on Signal Processing*, 2026. <a href="https://arxiv.org/abs/2507.01841">arXiv</a>
 
 [J6] **Yihang Gao**, Michael K. Ng, Vincent Y. F. Tan. Low Tensor-Rank Adaptation of Kolmogorov--Arnold Networks, *IEEE Transactions on Signal Processing*, 2025. <a href="https://ieeexplore.ieee.org/document/11080085">paper</a>
 
