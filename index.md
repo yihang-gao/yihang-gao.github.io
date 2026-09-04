@@ -3,7 +3,6 @@
     <td width="75%">
       <h1>GAO Yihang 高伊杭</h1>
       <p align="left"><b>Assistant Professor in Mathematics, Hong Kong Baptist University</b></p>
-      <p align="left"><b>Ph.D. (HKU, 2024) in Mathematics, Supervisor: <a href="https://sites.google.com/view/michael-ng-math/home">Prof. Michael K. NG</a></b></p>
       <p align="left"><b>Email: gaoyihang at hkbu dot edu dot hk</b> & <b>gaoyh at connect dot hku dot hk</b></p>
       <p align="left"><b>Address: Department of Mathematics, Block S17, 10 Lower Kent Ridge Road, Singapore 119076</b></p>
     </td>
