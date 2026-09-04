@@ -18,7 +18,7 @@
 <tr>
   <td>
   <p align="left"><b>
-  Hi, I'm Yihang, a Libra boy. I am currently a Research Fellow at the Department of Mathematics, National University of Singapore, supervised by <a href="https://vyftan.github.io/">Prof. Vincent Y. F. Tan</a>. Before that, I obtained my Ph.D. (2024) in Mathematics from The University of Hong Kong under the supervision of <a href="https://sites.google.com/view/michael-ng-math/home">Prof. Michael K. NG</a>. I received B.S. (2020) in Mathematics from Zhejiang University, Hangzhou, P.R. China. My research interests include Stochastic Optimization, Optimization for Deep Learning, Large Language Models (LLMs), and Data Science. 
+  Hi, I'm Yihang, a Libra boy. I am currently an Assistant Professor at the Department of Mathematics, Hong Kong Baptist University. Before that, I was a Research Fellow at the Department of Mathematics, National University of Singapore, supervised by <a href="https://vyftan.github.io/">Prof. Vincent Y. F. Tan</a>. I obtained my Ph.D. (2024) in Mathematics from The University of Hong Kong under the supervision of <a href="https://sites.google.com/view/michael-ng-math/home">Prof. Michael K. NG</a>. I received B.S. (2020) in Mathematics from Zhejiang University, Hangzhou, P.R. China. My research interests include Stochastic Optimization, Optimization for Deep Learning, Large Language Models (LLMs), and Data Science. 
  </b></p>
     </td>
   </tr>
