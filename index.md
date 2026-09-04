@@ -4,7 +4,7 @@
       <h1>GAO Yihang 高伊杭</h1>
       <p align="left"><b>Assistant Professor in Mathematics, Hong Kong Baptist University</b></p>
       <p align="left"><b>Email: gaoyihang at hkbu dot edu dot hk</b> & <b>gaoyh at connect dot hku dot hk</b></p>
-      <p align="left"><b>Address: Department of Mathematics, Block S17, 10 Lower Kent Ridge Road, Singapore 119076</b></p>
+      <p align="left"><b>Address: Department of Mathematics, Hong Kong Baptist University, Kowloon, Hong Kong</b></p>
     </td>
     <td width="25%">
       <center>
