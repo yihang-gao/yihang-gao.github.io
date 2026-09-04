@@ -19,7 +19,7 @@
 
 [P2] **Yihang Gao**, Vincent Y. F. Tan. ODELoRA: Training Low-Rank Adaptation by Solving Ordinary Differential Equations. Under review at a journal. <a href="https://arxiv.org/abs/2602.07479">arXiv</a>
 
-[P1] **Yihang Gao**, Michael Ng, Michael W. Mahoney, Sen Na. Online Inference of Constrained Optimization: Primal-Dual Optimality and Sequential Quadratic Programming. Under review at a journal. <a href="https://arxiv.org/abs/2512.08948">arXiv</a>
+[P1] **Yihang Gao**, Michael Ng, Michael W. Mahoney, Sen Na. Online Inference of Constrained Optimization: Primal-Dual Optimality and Sequential Quadratic Programming. Under revision at a journal. <a href="https://arxiv.org/abs/2512.08948">arXiv</a>
 
 
 # Journal Papers (Mathematics/ML)
