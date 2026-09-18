@@ -1,7 +1,7 @@
 # Referee Service
 I will serve as an Area Chair (AC) for ICLR 2027.
 
-I have served as a reviewer for the following journals and machine learning conferences: ICML, NeurIPS, ICLR, AISTATS, AAAI, COLING, IEEE Transactions on Signal Processing (IEEE TSP), IEEE Transactions on Computational Social Systems (IEEE TCCS), Engineering Applications of Artificial Intelligence (EAAI), Numerical Linear Algebra with Applications (NLAA), Neurocomputing, and Machine Learning Journal. 
+I have served as a reviewer for the following journals and machine learning conferences: ICML, NeurIPS, ICLR, AISTATS, AAAI, COLING, IEEE Transactions on Information Theory (IEEE TIT), IEEE Transactions on Signal Processing (IEEE TSP), Journal of Scientific Computing (JSC), IEEE Transactions on Computational Social Systems (IEEE TCCS), Engineering Applications of Artificial Intelligence (EAAI), Numerical Linear Algebra with Applications (NLAA), Neurocomputing, and Machine Learning Journal. 
 
 
 # Presentations
